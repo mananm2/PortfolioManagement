@@ -1,4 +1,4 @@
-# PortfolioManagement
+# Stock Portfolio Management and Optimization
 
 This is a work in progress. The Project_MM notebook has some cool analysis on stock picking and portfolio optimization using the Markovitz theory.
 
